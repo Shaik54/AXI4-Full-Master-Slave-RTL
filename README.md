@@ -83,6 +83,7 @@ Simulation confirms:
 
 Waveforms were analyzed using ModelSim / Vivado simulator.
 
+##Simulation Waveform
 ---
 
 ## 🛠️ Tools Used
@@ -112,9 +113,3 @@ Through this project, I gained strong understanding of:
 - Implement UVM-based verification  
 - Add performance analysis  
 
----
-
-## 👨‍💻 Author
-
-**Shaik Moin**  
-B.Tech – Electronics and Communication Engineering  
