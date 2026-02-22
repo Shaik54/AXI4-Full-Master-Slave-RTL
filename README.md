@@ -83,7 +83,7 @@ Simulation confirms:
 
 Waveforms were analyzed using ModelSim / Vivado simulator.
 
-##Simulation Waveform(images/simulation_waveform.png)
+![AXI Simulation Waveform](images/simulation_waveform.png)
 ---
 
 ## 🛠️ Tools Used
